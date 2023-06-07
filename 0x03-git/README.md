@@ -1,1 +1,1 @@
-Description of the project
+My first 0x03-git readme
